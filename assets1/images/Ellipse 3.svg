@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119 119" width="119" height="119">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f5c506 } 
+		.txt1 { font-size: 51px;fill: #ffffff;font-family: "PT Sans Narrow";font-weight: 700 } 
+	</style>
+	<g id="section2">
+		<path id="Ellipse 3" class="shp0" d="M60 2C92.03 2 118 27.97 118 60C118 92.03 92.03 118 60 118C27.97 118 2 92.03 2 60C2 27.97 27.97 2 60 2Z" />
+		<text id="Its 100% Free" style="transform: matrix(0.367,0,0,0.367,8.608,68.81)" >
+			<tspan x="0" y="0" class="txt1" dx="0 1 1 1 1 1 1 1 1 1 1 1 1" >Its 100% Free</tspan>
+		</text>
+	</g>
+</svg>
