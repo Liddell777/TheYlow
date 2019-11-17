@@ -1,2 +1,2 @@
 # TheYlow
-layout (https://your-github-account.github.io/TheYlow)gh-pages
+[layout] (https://liddell777.github.io/TheYlow/index)
